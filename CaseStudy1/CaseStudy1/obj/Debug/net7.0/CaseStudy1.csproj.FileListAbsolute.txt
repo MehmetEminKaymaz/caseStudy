@@ -1,0 +1,15 @@
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\bin\Debug\net7.0\CaseStudy1.exe
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\bin\Debug\net7.0\CaseStudy1.deps.json
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\bin\Debug\net7.0\CaseStudy1.runtimeconfig.json
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\bin\Debug\net7.0\CaseStudy1.dll
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\bin\Debug\net7.0\CaseStudy1.pdb
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.csproj.AssemblyReference.cache
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.AssemblyInfoInputs.cache
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.AssemblyInfo.cs
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.csproj.CoreCompileInputs.cache
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.dll
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\refint\CaseStudy1.dll
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.pdb
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\CaseStudy1.genruntimeconfig.cache
+C:\Users\Eminf\Projects\CaseStudy1\CaseStudy1\obj\Debug\net7.0\ref\CaseStudy1.dll
